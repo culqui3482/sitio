@@ -1,0 +1,50 @@
+.gris1{
+	background-color: #D7D0D0
+}
+
+.gris{
+	background-color: #646363
+}
+.amarillo{
+	background-color: #F8E225
+}
+.celeste{
+	background-color: #58E8D2
+}
+.verde{
+	background-color: #139A3C
+}
+
+.fucsia{
+	background-color: #D71EC8
+}
+
+.azul{
+	background-color: #2C3BC7
+}
+.blanco{
+	background-color: white;
+
+}
+.negro{
+	background-color: black;
+}
+
+.alto{
+	height: 600px;
+}
+.medio{
+	height: 100px;
+
+}
+
+.foot{
+	height: 200px;
+
+}
+.gra{
+	background:linear-gradient(to right, #ebf1f1, #010101);
+}
+p{
+
+}

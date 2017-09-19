@@ -1,0 +1,122 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+.blanco{
+	background-color: white;
+}
+
+body { background-image:  url(../imagen/fondo.jpg) ;
+}
+
+.container{
+	margin: 0 auto;
+	width: 70%;
+}
+/* header*/
+
+header{
+	padding: 50px 20px;
+	margin: 0 120px;
+	background-color: rgba(255,255,255,0.5);
+	
+}
+
+.logo{
+	width: 200px;
+	padding-left: 20px;
+	display:inline-block;
+}
+.menu2{
+	display: inline-block;
+	margin-left: 200px;
+}
+.home,.menu,.contacto{
+	margin-left: 20px;
+}
+
+.menu2 a{
+	text-decoration: none;
+	font-size: 18px;
+	color:black;
+	
+}
+
+header .menu2 a:hover{
+	font-weight: bold;
+
+}
+
+..........................................
+
+.principal{
+	background: #82E8B7;
+	padding: 20px;
+	width:70%;
+}
+
+.principal article .banner{
+	margin-bottom: 10px;
+	background: #82E8B7;
+}
+
+.principal article .banner img{
+	
+	display:inline-block;
+}
+
+
+.principal article h1{
+	margin-bottom: 10px;
+	font-weight: normal;
+	font-size: 18px;
+} 
+
+.principal article p{
+	font-size: 14px;
+}
+
+aside{
+	width: 30%;
+	background:grey;
+	padding: 20px;
+	
+}
+
+aside .cuadro{
+	padding:80px 0;
+	text-align: center;
+	border:3px dashed black;
+	margin-top: 20px;
+	margin-right: 80px;
+	margin-left: 20px;
+
+
+}
+
+footer{
+	background:rgba(255,255,255,0.5);
+	padding: 30px 20px;
+	font-size: 16px;
+
+
+
+}
+
+footer .rsocia a{
+	text-decoration: underline;
+	color:black;
+}
+
+footer .rsocia a:hover{
+	text-decoration: none;
+}
+
+
+
+
+

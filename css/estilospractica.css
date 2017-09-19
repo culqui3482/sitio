@@ -1,0 +1,20 @@
+.caja {
+	border: 1px solid black;
+	padding: 30px;
+	font-size: 30px;
+	text-align: center;
+}
+
+#azul{
+	background-color: blue;
+}
+
+#rojo{
+	background-color: red;
+}
+#rosa{
+	background-color: pink;
+}
+#black{
+	background-color: black;
+}
